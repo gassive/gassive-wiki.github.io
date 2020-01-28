@@ -1,7 +1,3 @@
----
-description: 公开一些国内用户学习Julia可能遇到的问题
----
-
 # 学习Julia常见问题
 
 ## 国内用户如何安装配置Julia
